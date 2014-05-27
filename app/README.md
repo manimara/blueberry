@@ -1,4 +1,4 @@
 blueberry
 =========
 
-Shopping cart
+Shopping cart application
