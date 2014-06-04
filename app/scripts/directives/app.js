@@ -1,15 +1,4 @@
-var BlueBerryApp = angular.module('BlueBerryApp', ['ngRoute'])
-    .config(
-        function($routeProvider){
-        $routeProvider
-            .when('/app/index.html',{
-                templateUrl: 'index.html'
-            })
-            .otherwise({
-                redirectTo:'/'
-            })
-        });/*
-.directive('visitedProduct', function(){
+BlueBerryApp.directive('visitedProduct', function(){
         return{
             scope : {
                 product : '='
@@ -58,4 +47,3 @@ var BlueBerryApp = angular.module('BlueBerryApp', ['ngRoute'])
     };
 });
 
-*/

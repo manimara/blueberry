@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "Iphone",
+        "iconSrc" : "images/pic4.png",
+        "description" :"Lorem ipsum dolor sit amet sed do eiusmod.",
+        "detailPage" : "preview.html"
+    },
+    {
+        "name" : "Sansung",
+        "iconSrc" : "images/pic3.png",
+        "description" :"Lorem ipsum dolor sit amet sed do eiusmod.",
+        "detailPage" : "preview-5.html"
+    },
+    {
+        "name" : "Acer",
+        "iconSrc" : "images/pic1.png",
+        "description" :"Lorem ipsum dolor sit amet sed do eiusmod.",
+        "detailPage" : "preview-3.html"
+    },
+    {
+        "name" : "Canon",
+        "iconSrc" : "images/pic4.png",
+        "description" :"Lorem ipsum dolor sit amet sed do eiusmod.",
+        "detailPage": "preview-6.html"
+    }
+]
